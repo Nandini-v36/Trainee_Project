@@ -1,0 +1,13 @@
+{
+  "name": "trainee_backend",
+  "version": "1.0.0",
+  "description": "Trainee Backend Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
+
