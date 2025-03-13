@@ -18,7 +18,7 @@ The frontend consists of a simple HTML page with an interactive button that chan
 - `index.html` (Contains the button and the JavaScript code)
 - `script.js` (Handles the button click event)
 
-### 1. **Trainee Backend**
+### 2. **Trainee Backend**
 
 **Key File:**
 - `app.js` 
